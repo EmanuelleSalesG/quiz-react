@@ -10,5 +10,15 @@ export const questions: Question[] = [
             'npx create-react-app MyReactApp'
         ],
         answer: 0
+    },
+    {
+        question: 'React is mainly used for building ___.',
+        options: [
+            'Database',
+            'Connectivity',
+            'User interface',
+            'Design Platform'
+        ],
+        answer: 2
     }
 ];
